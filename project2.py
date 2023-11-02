@@ -1,4 +1,4 @@
-import turtle
+import turtles
 import colorsys
 
 t=turtle.Turtle()
